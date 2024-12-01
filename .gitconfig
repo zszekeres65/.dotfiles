@@ -1,0 +1,7 @@
+[user]
+	name = Zsolti
+	email = szekereszsolt7@gmail.com
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
